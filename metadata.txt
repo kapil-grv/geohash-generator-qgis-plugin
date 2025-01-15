@@ -1,47 +1,9 @@
-# This file contains metadata for your plugin.
-
-# This file should be included when you package your plugin.# Mandatory items:
-
 [general]
 name=Geohash Generator
-qgisMinimumVersion=3.0
-description=Generate geohash for a given polygon
-version=0.1
-author=Kapil Gauravan V | https://kapilgrv.in
+qgisMinimumVersion=3.10
+description=Generate geohashes for polygon/multipolygon layers
+version=1.0
+author=Kapil Gauravan V
 email=kapilgrv@gmail.com
-
-about=Plugin to generate geohashes that comprise a given polygon based on required resolution by a user. Find more about geohash here - https://en.wikipedia.org/wiki/Geohash
-
-tracker=https://github.com/kapil-grv/geohash-generator-qgis-plugin/issues
-repository=https://github.com/kapil-grv/geohash-generator-qgis-plugin
-# End of mandatory metadata
-
-# Recommended items:
-
-hasProcessingProvider=no
-# Uncomment the following line and add your changelog:
-# changelog=
-
-# Tags are comma separated with spaces allowed
-tags=python, geohash, hashing, polygon
-
-homepage=https://kapilgrv.in
-category=Vector
-icon=icon.png
-# experimental flag
-experimental=True
-
-# deprecated flag (applies to the whole plugin, not just a single version)
-deprecated=False
-
-# Since QGIS 3.8, a comma separated list of plugins to be installed
-# (or upgraded) can be specified.
-# Check the documentation for more information.
-# plugin_dependencies=
-
-Category of the plugin: Raster, Vector, Database or Web
-# category=
-
-# If the plugin can run on QGIS Server.
-server=False
-
+icon=icons/icon.png
+class_factory=main.classFactory

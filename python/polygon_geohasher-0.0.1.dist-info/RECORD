@@ -1,0 +1,16 @@
+polygon_geohasher-0.0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+polygon_geohasher-0.0.1.dist-info/METADATA,sha256=pciy47BJB9294bPCnXDrGRdz8To5zYx92YjAhJHTE8E,2659
+polygon_geohasher-0.0.1.dist-info/RECORD,,
+polygon_geohasher-0.0.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+polygon_geohasher-0.0.1.dist-info/WHEEL,sha256=PZUExdf71Ui_so67QXpySuHtCi3-J3wvF4ORK6k_S8U,91
+polygon_geohasher-0.0.1.dist-info/top_level.txt,sha256=_-28VO_SF1C_7x75pFuJFbNkxgq8yLavInqIdapMcpQ,24
+polygon_geohasher/__init__.py,sha256=AbpHGcgLb-kRsJGnwFEktk7uzpZOCcBY74-YBdrKVGs,1
+polygon_geohasher/__pycache__/__init__.cpython-312.pyc,,
+polygon_geohasher/__pycache__/polygon_geohasher.cpython-312.pyc,,
+polygon_geohasher/__pycache__/version.cpython-312.pyc,,
+polygon_geohasher/polygon_geohasher.py,sha256=wO2oc6PpkQOTX_PmHjZws_KmPrAtmCvDGF15MZQ-SJg,2102
+polygon_geohasher/version.py,sha256=dY5tIpNJQ-DZLoeAN_b7izhSMIcrqgGvDbKUcVSs2IA,190
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/__pycache__/__init__.cpython-312.pyc,,
+tests/__pycache__/main_test.cpython-312.pyc,,
+tests/main_test.py,sha256=8kSNlCD_lp4TIhaU_hjoA54D-dRA5F-H8vXzI-OD-js,1265

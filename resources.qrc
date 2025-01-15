@@ -1,5 +1,6 @@
-<RCC>
-    <qresource prefix="/plugins/geohasher" >
-        <file>icon.png</file>
-    </qresource>
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource>
+    <file>icons/icon.png</file>
+  </qresource>
 </RCC>
