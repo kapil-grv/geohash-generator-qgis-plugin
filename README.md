@@ -1,7 +1,3 @@
-To update the README file for your codebase, you should include the following sections for clarity and completeness. Here's a suggested structure based on the information you provided:
-
----
-
 # Geohash Generator Plugin for QGIS
 
 This QGIS plugin generates geohashes for polygon features in a selected vector layer and optionally saves them to a CSV file. It uses the Shapely library to convert polygons to geohashes with a specified precision and processes the polygons from a selected layer.
@@ -24,7 +20,7 @@ This QGIS plugin generates geohashes for polygon features in a selected vector l
 ## Installation
 
 ### Method 1:
-1. Download the repository and zip the folder
+1. Download the repository and zip the folder / Just use the zip already available in the repo
 2. Open QGIS -> Plugins -> Manage and Install Plugins -> Install from ZIP -> Upload the zip and click on Install Plugin
 
 ### Method 2:
