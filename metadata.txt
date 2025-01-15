@@ -5,5 +5,7 @@ description=Generate geohashes for polygon/multipolygon layers
 version=1.0
 author=Kapil Gauravan V
 email=kapilgrv@gmail.com
+homepage=https://kapilgrv.in
+repository=https://github.com/kapil-grv/geohash-generator-qgis-plugin
 icon=icons/icon.png
 class_factory=main.classFactory
